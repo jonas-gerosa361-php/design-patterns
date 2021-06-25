@@ -1,5 +1,6 @@
 ## Goal
-This patterns is usually used to represent hierachly objects - for example, directory trees, forms, graphical itens.
+Practice the Composite Design Pattern with PHP.
+This patterns is usually used to represent objects hierarchy  - for example, directory trees, forms, graphical itens that have the same type.
 ***
 
 **This example shows the render process of a simple folder structure (folders only)**
