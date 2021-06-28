@@ -10,7 +10,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "Composite\\": "Composite/src"
+      "Composite\\": "Composite/src",
+      "Strategy\\": "Strategy/src"
     }
   },
   "require-dev": {
